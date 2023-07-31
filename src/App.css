@@ -1,6 +1,10 @@
 .App {
-  text-align: center;
+  text-align: center; 
+ 
+  
 }
+
+
 
 .App-logo {
   height: 40vmin;
@@ -12,7 +16,9 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.font-face-gm{
+  font-family: "c";
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -36,3 +42,11 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EpotjEBq2WeiW4mT_dbKhOk5g50V0G4YQw&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "c";
+}
+
+  
